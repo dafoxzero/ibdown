@@ -111,7 +111,7 @@ def download_files(url, filetypes, dirname=None):
 
 
 def help():
-    print "Usage: python <script> url ext dir"
+    print "Usage: python <script> <url> <extension> <directory>"
     print "       python <script>  inconfig"
     print ""
 
