@@ -13,7 +13,8 @@ pip install -r requirements.txt
 
 ### Normal Download 
 
-python downbatch.py <url> <extension> <path>
+> python downbatch.py <url> <extension> <path>
+
 
 #### example
 
